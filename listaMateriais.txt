@@ -1,0 +1,17 @@
+Lista de materiais (BOM - Bill of Materials):
+
+- 4 LEDs (cores)
+
+- 4 resistores 220Ω para LEDs
+
+- 7 botões
+
+- 7 resistores de pull-down (10kΩ)
+
+- 2 buzzers
+
+- Arduino Uno
+
+- Protoboard de 60 colunas
+
+- Jumpers
