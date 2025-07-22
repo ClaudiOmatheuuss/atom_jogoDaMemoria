@@ -26,7 +26,6 @@ Além da funcionalidade principal, o jogo permite a escolha de níveis de dificu
 ![Simulação do circuito no Tinkercad](imagens/circuito-tinkercad.jpg)
 
 📎 [Ver simulação completa no Tinkercad](https://www.tinkercad.com/things/ehhhexoGUlW/editel)  
-> *(Insira aqui o link da imagem ou simulação que está no seu Drive ou Tinkercad)*
 
 ---
 
