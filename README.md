@@ -23,6 +23,8 @@ Além da funcionalidade principal, o jogo permite a escolha de níveis de dificu
 
 ## 📸 Circuito
 
+![Simulação do circuito no Tinkercad](./fotoCircuito.png)
+
 📎 [Ver simulação completa no Tinkercad](https://www.tinkercad.com/things/ehhhexoGUlW/editel)  
 
 ---
@@ -31,11 +33,10 @@ Além da funcionalidade principal, o jogo permite a escolha de níveis de dificu
 
 atom-jogo-da-memoria/
 ├── README.md
-├── imagens/
-│ └── circuito-tinkercad.jpg
-├── codigo/
-│ └── jogo_memoria.ino
-
+│── fotoCircuito.png
+├── codigo.ino
+├── linkTinkercad.txt
+├── listaMateriais.txt
 ---
 
 ## 🛠️ Tecnologias e Materiais
